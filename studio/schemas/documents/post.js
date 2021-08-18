@@ -11,12 +11,6 @@ export default {
       title: "Title",
       description: "Titles should be catchy, descriptive, and not too long",
     },
-	{
-      name: "videoLink",
-      type: "string",
-      title: "Video Link",
-      description: "This is an video link for your post, if need you can add here",
-    },
     {
       name: "slug",
       type: "slug",
