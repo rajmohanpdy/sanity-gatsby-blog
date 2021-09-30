@@ -2,7 +2,7 @@ name: Deploy Sanity Studio
 on:
   push:
     branches: [main]
-    paths: ./studio/**
+    paths: ./studio/
 jobs:
   deploy:
     runs-on: ubuntu-latest
